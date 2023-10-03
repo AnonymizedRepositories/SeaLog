@@ -1,0 +1,13 @@
+{
+    "logname": "Industry",
+    "folder": "Industry",
+    "train_file": "train.pkl",
+    "test_file": "test.pkl",
+    "load_model": "",
+    "model_save_path": "",
+    "test_only": false,
+    "max_child": 2,
+    "topk": 3,
+    "expname": "d4614a27",
+    "llm_cache": "./scalead_result/Industry/llm_cache.json"
+}
